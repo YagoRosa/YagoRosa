@@ -17,7 +17,7 @@ Tenho foco em indicadores assistenciais, automação de processos e dashboards n
 ## 🧠 Projetos em Destaque  
 🔹 **[Pipeline de Dados – SISREG → SQL Server → Power BI](https://github.com/YagoRosa/sisreg-data-pipeline)**  
 
-Pipeline de dados que simula um fluxo completo de ETL utilizando informações do SISREG, com foco em consolidar indicadores hospitalares e criar visualizações no Power BI. O projeto tem como objetivo aplicar boas práticas de ingestão e tratamento de dados a partir de arquivos CSV para um banco SQL Server, estruturando o processo de extração, carga e análise de forma integrada. O proximo passo será fazer a conexão entre SQL e POWERBI e criar a vo
+Pipeline de dados que simula um fluxo completo de ETL utilizando informações do SISREG, com foco em consolidar indicadores hospitalares e criar visualizações no Power BI. O projeto tem como objetivo aplicar boas práticas de ingestão e tratamento de dados a partir de arquivos CSV para um banco SQL Server, estruturando o processo de extração, carga e análise de forma integrada.
 
 **Atualmente em desenvolvimento**, o pipeline será expandido com modelagem de dados, criação de medidas DAX e construção de dashboards interativos no Power BI.
 
