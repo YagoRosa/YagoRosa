@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Olá! Eu sou o João Silva
 
-<!--
-**YagoRosa/YagoRosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor Full Stack | 🚀 Apaixonado por tecnologia e código limpo
 
-Here are some ideas to get you started:
+## 🌟 Sobre mim
+- 🎓 Formado em Ciência da Computação
+- 💼 Trabalho com Node.js, React e Python
+- 🌱 Estudando Cloud e DevOps
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Tecnologias
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript)
+![Node.js](https://img.shields.io/badge/-Node.js-green?style=for-the-badge&logo=node.js)
+![React](https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react)
+
+## 📈 Estatísticas do GitHub
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaosilva&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaosilva&layout=compact&theme=dracula)
+
+## 📫 Contato
+- ✉️ [Email](mailto:joaosilva@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/joaosilva)
+- 🌍 [Portfólio](https://joaosilva.dev)
