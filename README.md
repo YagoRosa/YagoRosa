@@ -23,9 +23,7 @@ Atuo no setor hospitalar, dentro do **Núcleo Interno de Regulação (NIR)**, co
 | **Banco de Dados** | SQL Server |
 | **Visualização de Dados** | Power BI |
 | **Desenvolvimento Web** | HTML, CSS, JavaScript |
-| **Soft Skills** | Organização, visão sistêmica, foco em resultado |
-
----
+| **Soft Skills** | Organização, visão sistêmica, foco em
 
 ## 📂 Projetos em Destaque  
 
