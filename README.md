@@ -16,14 +16,8 @@ Tenho foco em indicadores assistenciais, automação de processos e dashboards n
 
 ## 🧠 Projetos em Destaque  
 🔹 **[Pipeline de Dados – SISREG → SQL Server → Power BI](https://github.com/yaguin/pipeline-sisreg)**  
-Pipeline que simula um fluxo de ETL com dados do SISREG, consolidando indicadores hospitalares e visualizações no Power BI.  
 
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-
-🔹 **[Dashboard Hospitalar – Indicadores Operacionais](https://github.com/yaguin/dashboard-hospitalar)**  
-Painel interativo com métricas de ocupação de leitos, cirurgias e fluxos regulatórios.
+Pipeline que simula um fluxo de ETL com dados do SISREG, consolidando indicadores hospitalares e visualizações no Power BI. Esté projeto tem como intuito estudar boas praticas de consolidação e a digestão de dados a partir de uma arquivo .csv para dentro de um servidor SQL, e apresentar isso de forma dinâmica no POWER BI.
 
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
