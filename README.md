@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Yaguin  
+# 👋 Olá, eu sou o Yago  
 
 Sou Auxiliar Administrativo em uma unidade hospitalar e Desenvolvedor Júnior nas horas vagas, atualmente em transição para a área de Dados.
 Sou Tecnólogo em Análise e Desenvolvimento de Sistemas, com experiência no setor hospitalar atuando no Núcleo Interno de Regulação (NIR).
