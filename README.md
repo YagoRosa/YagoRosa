@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Yago  
+# Olá, meu nome é Yago, bem-vindo ao meu perfil do Github
 
 Sou Auxiliar Administrativo em uma unidade hospitalar e Desenvolvedor Júnior nas horas vagas, atualmente em transição para a área de Dados.
 Sou Tecnólogo em Análise e Desenvolvimento de Sistemas, com experiência no setor hospitalar atuando no Núcleo Interno de Regulação (NIR).
