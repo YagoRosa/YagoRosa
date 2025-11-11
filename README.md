@@ -15,7 +15,7 @@ Tenho foco em indicadores assistenciais, automação de processos e dashboards n
 ---
 
 ## 🧠 Projetos em Destaque  
-🔹 **[Pipeline de Dados – SISREG → SQL Server → Power BI](https://github.com/yaguin/pipeline-sisreg)**  
+🔹 **[Pipeline de Dados – SISREG → SQL Server → Power BI](https://github.com/YagoRosa/sisreg-data-pipeline)**  
 
 Pipeline que simula um fluxo de ETL com dados do SISREG, consolidando indicadores hospitalares e visualizações no Power BI. Esté projeto tem como intuito estudar boas praticas de consolidação e a digestão de dados a partir de uma arquivo .csv para dentro de um servidor SQL, e apresentar isso de forma dinâmica no POWER BI.
 
