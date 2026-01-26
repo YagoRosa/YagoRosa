@@ -29,7 +29,7 @@ Pipeline de dados que simula um fluxo completo de ETL utilizando informações d
 
 🔹 **[Automação de envio de mensagens via WhatsApp Web](https://github.com/YagoRosa/sisreg-data-pipeline)**  
 
-Automatiza o envio de mensagens via WhatsApp e, em paralelo, registrar os dados operacionais em um banco SQL Server para análises posteriores. O fluxo é desenhado para que o envio das mensagens seja sempre prioridade — caso o bulk insert falhe, o chamado não é impactado.
+Automatiza o envio de mensagens via WhatsApp e, em paralelo, registra os dados operacionais em um banco SQL Server para análises posteriores. O fluxo é desenhado para que o envio das mensagens seja sempre prioridade — caso o bulk insert falhe, o chamado não é impactado.
 
 **Atualmente em desenvolvimento**, Este projeto está passando por uma evolução estrutural para operar como um pipeline completo de chamadas cirúrgicas, unificando automação via WhatsApp, ingestão de dados em SQL Server e camada analítica em Power BI.
 
