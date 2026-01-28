@@ -32,6 +32,7 @@ Automação de envio de mensagens via WhatsApp Web integrada a um banco SQL Serv
 **Atualmente em desenvolvimento**, Este projeto está passando por uma evolução estrutural para operar como um pipeline completo de chamadas cirúrgicas, unificando automação via WhatsApp, ingestão de dados em SQL Server e camada analítica em Power BI.
 
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ---
