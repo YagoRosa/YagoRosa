@@ -1,8 +1,6 @@
 # Bem-vindo ao meu perfil do Github
 
-Sou Auxiliar Administrativo em uma unidade hospitalar e Desenvolvedor Júnior nas horas vagas, atualmente em transição para a área desemvolvimento.
-Sou Tecnólogo em Análise e Desenvolvimento de Sistemas, com experiência no setor hospitalar atuando no Núcleo Interno de Regulação (NIR).
-Tenho foco em indicadores assistenciais, automação de processos e dashboards no Power BI para apoiar a gestão na tomada de decisão.
+Profissional em transição da área administrativa para tecnologia, com foco em dados, automação e desenvolvimento de soluções. Experiência prática com Python, SQL Server, JavaScript, Power BI e Excel, aplicando tecnologia para resolver problemas operacionais e apoiar decisões de negócio.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
@@ -29,7 +27,7 @@ Pipeline de dados que simula um fluxo completo de ETL utilizando informações d
 
 🔹 **[Automação de envio de mensagens via WhatsApp Web](https://github.com/YagoRosa/sisreg-data-pipeline)**  
 
-Automatiza o envio de mensagens via WhatsApp e, em paralelo, registra os dados operacionais em um banco SQL Server para análises posteriores. O fluxo é desenhado para que o envio das mensagens seja sempre prioridade — caso o bulk insert falhe, o chamado não é impactado.
+Automação de envio de mensagens via WhatsApp Web integrada a um banco SQL Server para registro e análise operacional. O fluxo prioriza a execução da automação, garantindo que falhas na persistência dos dados não impactem o processo principal
 
 **Atualmente em desenvolvimento**, Este projeto está passando por uma evolução estrutural para operar como um pipeline completo de chamadas cirúrgicas, unificando automação via WhatsApp, ingestão de dados em SQL Server e camada analítica em Power BI.
 
