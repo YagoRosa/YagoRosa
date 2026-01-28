@@ -25,7 +25,7 @@ Pipeline de dados que simula um fluxo completo de ETL utilizando informações d
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-🔹 **[Automação de envio de mensagens via WhatsApp Web](https://github.com/YagoRosa/sisreg-data-pipeline)**  
+🔹 **[WhatsApp Automation Pipeline with SQL](https://github.com/YagoRosa/sisreg-data-pipeline)**  
 
 Automação de envio de mensagens via WhatsApp Web integrada a um banco SQL Server para registro e análise operacional. O fluxo prioriza a execução da automação, garantindo que falhas na persistência dos dados não impactem o processo principal
 
