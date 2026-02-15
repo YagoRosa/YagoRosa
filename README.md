@@ -1,6 +1,8 @@
 # Bem-vindo ao meu perfil do Github
 
-Profissional em transição da área administrativa para tecnologia, com foco em desenvolvimento de sistemas e automação de processos. Experiência prática na construção de soluções utilizando Java, Python, SQL Server e JavaScript, aplicando tecnologia para estruturar regras de negócio, integrar sistemas e otimizar operações.
+Profissional em transição da área administrativa para tecnologia, atualmente focado no desenvolvimento com Java e Quarkus, estudando construção de APIs REST e persistência de dados com Hibernate/JPA. Também venho praticando a integração com React no frontend, buscando entender o fluxo completo entre backend e interface.
+
+Tenho direcionado meus estudos para fortalecer a base em orientação a objetos, bancos de dados relacionais e boas práticas de organização de código, com o objetivo de evoluir como Desenvolvedor Full Stack Júnior e contribuir em projetos reais de forma consistente.
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Quarkus](https://img.shields.io/badge/Quarkus-4695EB?style=for-the-badge&logo=quarkus&logoColor=white)
