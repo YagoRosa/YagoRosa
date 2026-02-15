@@ -3,8 +3,8 @@
 Profissional em transição da área administrativa para tecnologia, com foco em desenvolvimento de sistemas e automação de processos. Experiência prática na construção de soluções utilizando Java, Python, SQL Server e JavaScript, aplicando tecnologia para estruturar regras de negócio, integrar sistemas e otimizar operações.
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 
 
